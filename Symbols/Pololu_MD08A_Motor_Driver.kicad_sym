@@ -22,7 +22,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Pololu_MD08A_Motor_Driver:Pololu_MD08A_Motor_Driver"
 			(at 0 0 0)
 			(effects
 				(font
